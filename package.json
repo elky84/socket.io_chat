@@ -1,8 +1,8 @@
 {
-  "name": "vuejs-socketio-chat",
+  "name": "chat_app",
   "version": "1.0.0",
-  "description": "Simple chat with VueJS, NodeJS and SocketIO",
-  "author": "Cristian Botella Hurtado <cri.bh6@gmail.com",
+  "description": "chat with VueJS, NodeJS and SocketIO",
+  "author": "Elky Kim <elkykim@gmail.com>",
   "main": "server.js",
   "license": "MIT",
   "repository": {

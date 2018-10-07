@@ -23,8 +23,6 @@ var users = [];
 
 io.on('connection', function(socket) {
 
-    //users.push(socket.id);
-
     socket.emit('init-chat', messages);
     socket.emit('update-users', users);
 
